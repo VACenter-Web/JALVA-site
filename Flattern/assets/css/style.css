@@ -1985,5 +1985,12 @@ h4 {
 .events1 .card:hover .card-body .card-title a {
   color: #9dff00d0;
 }
-
-
+.airtable {
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+.g-5,
+.gx-5 {
+  --bs-gutter-x: 3rem;
+}
