@@ -624,10 +624,10 @@ section {
 }
 .services .icon-box:hover .icon {
   background: #fff;
-  border: 2px solid #f03c02;
+  border: 2px solid #86f023;
 }
 .services .icon-box:hover .icon i {
-  color: #f03c02;
+  color: #9df002;
 }
 .services .icon-box:hover .title a {
   color: #f03c02;
