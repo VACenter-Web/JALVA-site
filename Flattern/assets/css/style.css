@@ -813,7 +813,8 @@ section {
 # About Us
 --------------------------------------------------------------*/
 .about-us .content {
-  padding: 30px 0;
+  padding: 60px 0;
+  margin: 15px 20 100px 60px;
 }
 .about-us .content h3 {
   font-weight: 700;
@@ -821,6 +822,7 @@ section {
 }
 .about-us .content p {
   margin-bottom: 0;
+  margin: 5px 0 10px 60px;
 }
 .about-us .content .icon-box {
   margin-top: 25px;
